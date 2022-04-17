@@ -13,7 +13,7 @@ You are owning a supermarket mall and through membership cards , you have some b
 
 The Dataset used for this project is the <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python">Mall Customers</a> Dataset. This dataset has 5 different features. The feartures and their short descirption is mentioned in the table below:
 
-   | Column Name  |   Description    |
+   | Column Name     |   Description    |
  |    :----:   |          :-: |
  | Customer ID      | A Unique Identification Feature assigned to each customer  |
 | Gender        |   Customers are classified on the basis of their genders viz. Male and Female   |
