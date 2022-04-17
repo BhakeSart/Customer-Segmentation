@@ -14,12 +14,12 @@ You are owning a supermarket mall and through membership cards , you have some b
 The Dataset used for this project is the <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python">Mall Customers</a> Dataset. This dataset has 5 different features. The feartures and their short descirption is mentioned in the table below:
 
    | Column Name  |   Description    |
- |    :----:   |          ---: |
+ |    :----:   |          :-: |
  | Customer ID      | A Unique Identification Feature assigned to each customer  |
 | Gender        |   Customers are classified on the basis of their genders viz. Male and Female   |
  | Age |  Customers are classified on the basis of their genders |
  | Annual Income | This Feature illustrates the Annual Income of Customers in Thousands |
- | Spedning Score | This is a feature in which a special spending score is assinged to each customer based on his/her buying behaviour and net spend |
+ | Spending Score | This is a feature in which a special spending score is assinged to each customer based on his/her buying behaviour and net spend |
 
 ## Algorithm Used 
 ## Output 
