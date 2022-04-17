@@ -13,13 +13,13 @@ You are owning a supermarket mall and through membership cards , you have some b
 
 The Dataset used for this project is the <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python">Mall Customers</a> Dataset. This dataset has 5 different features. The feartures and their short descirption is mentioned in the table below:
 
-| Column Number      | Column Name  |       |
-| :---        |    :----:   |          ---: |
-| 1      | Customer ID      |   |
-| 2   | Gender        |      |
-| 3 | Age | 100% |
-| 4 | Annual Income |  |
-| 5 | Spedning Score |  |
+   | Column Name  |       |
+ |    :----:   |          ---: |
+ | Customer ID      |   |
+| Gender        |      |
+ | Age | 100% |
+ | Annual Income |  |
+ | Spedning Score |  |
 
 ## Algorithm Used 
 ## Output 
