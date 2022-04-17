@@ -20,9 +20,12 @@ The Dataset used for this project is the <a href="https://www.kaggle.com/dataset
  | Age |  Customers are classified on the basis of their genders |
  | Annual Income | This Feature illustrates the Annual Income of Customers in Thousands |
  | Spending Score | This is a feature in which a special spending score is assinged to each customer based on his/her buying behaviour and net spend |
+ 
+
+## Libraries/Packages Used
 
 ## Algorithm Used 
-## Output 
+
 ## Future Scope
 
 The Future Scope of this project will be to built a user friendly web interface using the <a href="https://shiny.rstudio.com/">Shiny Package</a> offered by R Studio. With the help of Shiny we can create really nice looking interfaces for our R project.
