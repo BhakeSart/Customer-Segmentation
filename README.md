@@ -29,9 +29,9 @@ The Dataset used for this project is the <a href="https://www.kaggle.com/dataset
  
  
 
-## Libraries/Packages Used
-
 ## Algorithm Used 
+
+<a href="https://en.wikipedia.org/wiki/K-means_clustering">K-means Clustering</a>
 
 ## Future Scope
 
