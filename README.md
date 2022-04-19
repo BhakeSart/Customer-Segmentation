@@ -10,7 +10,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 ## Context and Problem Statement
 
 
-You are owning a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data. You want to segment the customers into different clusters to that you can efficiently target the customers in order to generate more sales.
+You are owning a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data. You want to segment the customers into different clusters so that you can efficiently target the customers in order to generate more sales.
 
 
 ## Dataset Used 
