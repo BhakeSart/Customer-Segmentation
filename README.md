@@ -23,7 +23,7 @@ The Dataset used for this project is the <a href="https://www.kaggle.com/dataset
  |    :----:   |          :-: |
  | Customer ID      | A Unique Identification Feature assigned to each customer  |
 | Gender        |   Customers are classified on the basis of their genders viz. Male and Female   |
- | Age |  Customers are classified on the basis of their genders |
+ | Age |  Customers are classified on the basis of their Age |
  | Annual Income | This Feature illustrates the Annual Income of Customers in Thousands |
  | Spending Score | This is a feature in which a special spending score is assinged to each customer based on his/her buying behaviour and net spend |
  
