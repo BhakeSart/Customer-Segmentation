@@ -27,14 +27,7 @@ The Dataset used for this project is the <a href="https://www.kaggle.com/dataset
  | Annual Income | This Feature illustrates the Annual Income of Customers in Thousands |
  | Spending Score | This is a feature in which a special spending score is assinged to each customer based on his/her buying behaviour and net spend |
  
- 
- ## Flow of the Project
- 
- <img src="Picture1.png"
-     alt="Flowchart" />
- 
- 
- 
+
 
 ## Algorithm Used 
 
