@@ -123,12 +123,8 @@ fviz_nbclust(data[,3:5], kmeans, method = "silhouette")
 k6<-kmeans(data[,3:5],6,iter.max=100,nstart=50,algorithm="Lloyd")
 k6
 
-#Visuals of the Clustering of first 2 principal Components 
-pcclust=prcomp(data[,3:5],scale=FALSE) #principal component analysis
-summary(pcclust)
-pcclust$rotation[,1:2]
 
-
+#clustering plot
 set.seed(1)
 ggplot(data, aes(x =Annual.Income..k.., y = Spending.Score..1.100.)) + 
   geom_point(stat = "identity", aes(color = as.factor(k6$cluster))) +
